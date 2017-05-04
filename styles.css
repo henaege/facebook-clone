@@ -157,3 +157,31 @@
     margin-right: 10px;
     
 }
+
+#announcements, .sponsor-entry {
+    /*float: left;*/
+    display: block;
+    border-bottom: 1px #cacaca solid;
+    padding: 10px;
+    
+}
+
+.sponsor-entry {
+   
+}
+
+.sponsor-img {
+    float: left;
+    clear: right;
+    padding-right: 5px;
+}
+
+.sponsor-title {
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.sponsor-text {
+    vertical-align: middle;
+    margin-left: 5px;
+
