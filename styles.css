@@ -83,7 +83,7 @@
 	width: 50%;
 	float: left;
     border-left: 1px #cacaca solid;
-    border-right: 1px #cacaca solid;
+    /*border-right: 1px #cacaca solid;*/
 }
 #right{
 	width: 25%;
